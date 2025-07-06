@@ -1,8 +1,9 @@
 # HTTP-Website-List
-Here are 10 websites that still use HTTP:
+Here are 11 websites that still use HTTP:
 
 - http://httpforever.com
 - http://neverssl.com
+- http://www.bantaypresyo.da.gov.ph/
 - http://www.china.com.cn/
 - http://www.faqs.org/faqs/
 - http://www.360doc.com/index.html
